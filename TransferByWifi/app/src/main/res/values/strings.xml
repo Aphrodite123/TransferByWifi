@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TransferByWifi</string>
+    <string name="server">服务端</string>
+    <string name="client">客户端</string>
+    <string name="create_wifi_hot">创建热点</string>
+    <string name="close_wifi_hot">关闭热点</string>
+    <string name="send_data">发送</string>
+    <string name="connect">连接</string>
+    <string name="open_file">打开文件</string>
+</resources>
